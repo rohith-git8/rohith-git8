@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rohith-git8
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning datascience
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in working on Data Domain
+- 🌱 I’m currently working as dataengineer
 - 📫 How to reach me rohith.vuthunuri123@gmail.com
 
 <!---
